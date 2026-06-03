@@ -1,1 +1,1 @@
-# docker_lamp
+This is my try to make a "LAMP" with docker 
