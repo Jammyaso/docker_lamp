@@ -1,0 +1,4 @@
+{
+    "containers.containerCommand": "/usr/bin/docker",
+    "containers.composeCommand": "/usr/bin/docker compose"
+}
